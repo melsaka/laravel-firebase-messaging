@@ -51,7 +51,7 @@ FIREBASE_CREDENTIALS=/path/to/your/firebase-service-account.json
 FIREBASE_PROJECT_ID=your-firebase-project-id
 ```
 
-The path must be in the storage folder, for ex: storage/firebase/firebase-service-account.json
+The path must be in the storage folder, for ex: `firebase/firebase-service-account.json`
 
 ### Firebase Setup
 
