@@ -300,12 +300,6 @@ $notification = [
 - Custom sounds
 - Mutable content support
 
-## Testing
-
-```bash
-composer test
-```
-
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
@@ -320,7 +314,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Your Name](https://github.com/your-username)
+- [Mohamed ElSaka](https://github.com/melsaka)
 - [All Contributors](../../contributors)
 
 ## License
